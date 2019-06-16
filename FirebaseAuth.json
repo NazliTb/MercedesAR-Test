@@ -1,0 +1,11 @@
+{"users": [
+{
+  "localId": "3KKMDUMiBkfcfrZ1yir7iA4n4qx1",
+  "email": "nazlithabet@gmail.com",
+  "emailVerified": false,
+  "passwordHash": "Y5ZNJPA44OG5TGkYXlqiQWXluS/A9N+lhfl/jT1rOGUVkKwxceXueqn1PPdzw2hBn76x21NGcFmyigXXK6GUZA==",
+  "salt": "uY7fe6KZ0LUj0g==",
+  "lastSignedInAt": "1560645717901",
+  "createdAt": "1560644608519",
+  "providerUserInfo": []
+}]}
